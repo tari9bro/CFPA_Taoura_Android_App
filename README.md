@@ -1,51 +1,50 @@
-# Games Guide Reskin, Upload And Earn
+# 📱 CFPA Specialties Explorer (Unofficial Android App)
 
-![App Screenshot](screen.jpg)
-[How to make money with android apps?](https://thesemicolon.dev/make-money-with-android-apps/)
-A mobile application that provides a modern, reskinned interface for browsing game guides, uploading your own game-related content, and earning rewards for contributions.
+![App Screenshot](screenshoot.jpg)
 
-## 🚀 Features
+An unofficial Android application that provides access to a structured catalog of professional training specialties (CFPA programs).
+The app helps users explore available learning paths, discover vocational skills, and identify training opportunities across multiple sectors.
 
-- **Modern UI Reskin**: A fresh, intuitive interface built with Material Design components.
-- **Game Guides Library**: Browse and search through categorized game guides.
-- **Content Upload**: Upload your own game tutorials, walkthroughs, or tips.
-- **Earning System**: Earn points or rewards for valuable uploads and community engagement.
-- **Offline Access**: Not allowed to get more earning.
-- **Localization**: Supports multiple languages (future roadmap).
+⚠️ This application is not affiliated with any government institution or official CFPA organization. It is built for informational and educational purposes only.
 
-## 📦 Prerequisites
+🎯 Purpose
 
-- **Java Development Kit (JDK)** 11 or higher
-- **Android Studio** Bumblebee or later
-- **Android SDK** (API level 21+)
-- **Gradle** (installed via Android Studio)
+This app is designed to make it easier for users to:
 
-## 💾 Installation
+Browse available professional training specialties
+Discover skill-based learning programs
+Explore different fields of vocational education
+Understand available career pathways
+Quickly access structured training information in one place
+📚 Features
+🗂️ Full list of training specialties organized by field
+🔎 Search functionality for quick discovery of programs
+📌 Detailed specialty descriptions (where available)
+🎓 Categorization by sectors (e.g. IT, construction, agriculture, services, etc.)
+📱 Simple and lightweight Android UI
+🌍 Offline-friendly data access (if implemented)
+🏗️ Data Source
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/tari9bro/Games-Guide-Reskin--Uploud--And-Earn.git
-   cd Games-Guide-Reskin--Uploud--And-Earn
-   ```
+The application is based on publicly available information from vocational training platforms such as:
 
-2. **Open in Android Studio**
-   - Launch Android Studio.
-   - Choose **Open an existing project** and select the project folder.
+National training catalogs and CFPA-style specialty lists
+Public educational and vocational resources
 
-3. **Build the Project**
-   - Allow Gradle to sync and download dependencies.
-   - Click **Run** ▶️ to install the app on an emulator or connected device.
+Example reference structure includes national vocational training systems listing hundreds of specialties across multiple sectors.
 
-## ⚙️ Usage
+⚙️ Tech Stack
+Android (Kotlin / Java)
+RecyclerView for lists
+JSON / API-based or local database storage (depending on implementation)
+Material Design UI components
+🚀 Installation
 
-- **Browse Guides**: Navigate through categories from the home screen.
-- **Search**: Use the search bar in the toolbar to find specific guides.
-- **Upload Content**:
-  1. Tap the **Upload** button in the bottom navigation.
-  2. Fill in your guide title, description, and attach images.
-  3. Submit and wait for community approval.
-- **Earning Points**: Check your profile to track points earned from uploads and upvotes.
-- **Offline Mode**: Tap the download icon on any guide to read without internet.
+Clone the repository:
+
+git clone https://github.com/tari9bro/CFPA_Taoura_Android_App.git
+
+Open the project in Android Studio, sync Gradle, then run on emulator or device.
+
 
 ## 🤝 Contributing
 
@@ -59,19 +58,13 @@ Contributions are welcome! To get started:
 
 Please ensure any new code includes appropriate tests and documentation.
 
-## 📝 Roadmap
+📌 Disclaimer
 
-- [ ] Implement user authentication (OAuth)
-- [ ] Add push notifications for new guides
-- [ ] Integrate rating and review system
-- [ ] Expand localization support
-## 🎁 Links
-1. [How to make money with android apps?](https://thesemicolon.dev/make-money-with-android-apps/)
-2. [Rolling Ball Game Tutorial](https://thesemicolon.dev/rolling-ball-game/)
-3. [How do you make an app?](https://thesemicolon.dev/how-do-you-make-an-app/)
-4. [How much does it cost to make an app ?](https://thesemicolon.dev/)
-:
-## 📄 License
+This project is an independent educational tool.
+It does not represent or replace any official CFPA or government platform.
 
-This project is licensed under the [MIT License](LICENSE).
+All training information is aggregated from publicly available sources and may change over time.
 
+📄 License
+
+This project is open-source under the MIT License.
