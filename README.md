@@ -1,7 +1,6 @@
-# Games Guide Reskin, Upload And Earn
+# 📱 CFPA Specialties Explorer (Unofficial Android App)
 
-![App Screenshot](screen.jpg)
-📱 CFPA Specialties Explorer (Unofficial Android App)
+![App Screenshot](screenshoot.jpg)
 
 An unofficial Android application that provides access to a structured catalog of professional training specialties (CFPA programs).
 The app helps users explore available learning paths, discover vocational skills, and identify training opportunities across multiple sectors.
