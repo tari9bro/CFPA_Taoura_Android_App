@@ -1,0 +1,105 @@
+<resources>
+    <!-- TODO: this is the main string file the others in case you want to translate the app to another lang -->
+    <!-- TODO: can be translated -->
+    <string name="app_name" >CFPA Taoura</string>
+    <string name="app_name_ar">مركز التكوين المهني والتمهين\nلعجايبية يونس بن محمد \n تاورة</string>
+    <string name="open" >فتح</string>
+    <string name="close" >اغلاق</string>
+    <string  name="share_app" >شارك</string>
+    <string  name="rate_app" >قيم</string>
+    <string  name="about" >حول</string>
+    <string  name="privacy_policy" >سياسة الخصوصية</string>
+    <string  name="exit" >خروج</string>
+    <string  name="More_Apps" >المزيد</string>
+    <string  name="exit_dialog_title" >تأكيد الاغلاق</string>
+    <string  name="exit_dialog_msg" >هل أنت متأكد من رغبتك في الخروج من التطبيق؟</string>
+    <string  name="share_dialog_msg" >قم بتثبيت هذا التطبيق الرائع</string>
+    <string  name="share_dialog_title" >جاري المشاركة</string>
+    <string  name="review_fail" >فشل التقييم</string>
+    <string  name="review_succeed" >اكتمل التقييم</string>
+    <string  name="yes" >نعم</string>
+    <string  name="no" >لا</string>
+    <string  name="cancel_exit" >الغاء الاغلاق</string>
+    <string  name="lets_play" >Lets Play</string>
+    <string  name="buttonnavigationbtntxt1" >تصفح</string>
+    <string  name="buttonnavigationbtntxt3" >الاعدادات</string>
+    <string  name="back" >back</string>
+
+
+    <!-- TODO:  these are the items on the navigation drawer  -->
+    <string name="a1">عون البنوك</string>
+    <string name="a2">تربية الدواجن</string>
+    <string name="a3">صيانة السكك الحديدية</string>
+    <string name="a4">تلحيم</string>
+    <string name="a5">نجارة الألمنيوم و PVC</string>
+    <string name="a6">مطالة وهياكل المركبات</string>
+    <string name="a7">الكهرباء المعمارية</string>
+    <string name="a8">حلاقة الرجال</string>
+    <string name="a9">تربية المائيات</string>
+    <string name="a10">إنتاج النسيج / الخياطة</string>
+    <string name="a11">إنشاء مواقع الويب</string>
+    <string name="a12">تركيب الأسلاك الكهربائية</string>
+    <string name="a13">إصلاح رادياتير السيارة</string>
+    <string name="a14">زراعة الزعفران</string>
+
+    <!-- TODO:   these are the items description on explore fragment the main one     -->
+    <string name="link1">تكوين يؤهل المتربص لاكتساب مهارات الاستقبال والتوجيه والتعامل مع الزبائن داخل المؤسسات البنكية، مع التعرف على أساسيات الخدمات المصرفية والعمليات المالية اليومية.</string>
+
+    <string name="link2">تخصص يركز على تقنيات تربية الدواجن وإدارة المزارع وتغذية الطيور والوقاية الصحية بهدف تحقيق إنتاج فعال ومردود اقتصادي جيد.</string>
+
+    <string name="link3">تكوين يهدف إلى تعلم أساسيات إنشاء وصيانة المسالك والطرق الحديدية، والتعرف على معدات وتقنيات العمل المستعملة في قطاع النقل بالسكك الحديدية.</string>
+
+    <string name="link4">تخصص مهني يمكن المتربص من إتقان مختلف تقنيات اللحام الصناعي وقراءة المخططات وتجميع القطع المعدنية وفق معايير الجودة والسلامة.</string>
+
+    <string name="link5">تكوين متخصص في تصنيع وتركيب الأبواب والنوافذ والهياكل المصنوعة من الألمنيوم وPVC مع اكتساب مهارات القياس والقص والتركيب.</string>
+
+    <string name="link6">يهدف هذا التخصص إلى تعليم تقنيات إصلاح هياكل المركبات ومعالجة الأضرار الناتجة عن الحوادث وتحضير المركبات لأعمال الطلاء والصيانة.</string>
+
+    <string name="link7">تكوين في مجال الكهرباء المعمارية يشمل إنجاز وصيانة التركيبات الكهربائية للمباني السكنية والإدارية وفق معايير الأمن والسلامة.</string>
+
+    <string name="link8">تخصص يتيح اكتساب مهارات قص وتصفيف الشعر والعناية بالمظهر واستعمال أدوات ومنتجات الحلاقة الحديثة لخدمة الزبائن باحترافية.</string>
+
+    <string name="link9">تكوين في مجال تربية الأسماك والكائنات المائية، يشمل إدارة الأحواض والتغذية والمراقبة الصحية وتحسين مردودية الإنتاج.</string>
+
+    <string name="link10">تخصص يهتم بتعلم تقنيات الخياطة وتجميع قطع الملابس وتشغيل آلات النسيج وإنتاج مختلف المنتجات النسيجية وفق المقاييس المطلوبة.</string>
+
+    <string name="link11">تكوين حديث يهدف إلى اكتساب مهارات تصميم وتطوير مواقع الويب باستعمال HTML وCSS وJavaScript مع التعرف على مبادئ تجربة المستخدم.</string>
+
+    <string name="link12">تخصص يؤهل المتربص لتركيب وتمديد وصيانة الشبكات الكهربائية داخل المباني والمنشآت مع احترام المعايير التقنية وقواعد السلامة.</string>
+
+    <string name="link13">تكوين في صيانة أنظمة تبريد المركبات وإصلاح الرادياتير وتشخيص الأعطال المرتبطة بدورة التبريد والمحرك.</string>
+
+    <string name="link14">تخصص يركز على تقنيات زراعة الزعفران وتحضير التربة والعناية بالمحصول وطرق الجني والتخزين لتحقيق إنتاج عالي الجودة.</string>
+
+
+
+
+    <!-- TODO: developer links -->
+    <string name="developer_search" translatable="false">https://cfpataoura.info/#home</string>
+    <string name="app_link" translatable="false">https://cfpataoura.info/#home</string>
+    <string name="developer_id" translatable="false">https://cfpataoura.info/#home</string>
+
+
+
+
+
+
+
+
+
+    <!--    <string name="share_contentDescription">share icon</string>-->
+    <!--    <string name="star_contentDescription">share icon</string>-->
+    <!--    <string name="apps_contentDescription">apps icon</string>-->
+    <!--    <string name="about_contentDescription">about icon</string>-->
+    <!--    <string name="privacy_contentDescription">privacy Us icon</string>-->
+    <!--    <string name="close_contentDescription">close icon</string>-->
+
+    <!--    splash screen strings-->
+    <string name="image2" translatable="false">TODO</string>
+    <string name="image1" translatable="false">TODO</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="residential">اقامي</string>
+    <string name="apprenticeship">تمهين</string>
+
+
+</resources>
